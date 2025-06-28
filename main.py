@@ -20,5 +20,3 @@ def notify_customer(name, order_amount):
     
     print(message)
 
-# مثال تستی
-notify_customer("علی", 450_000)
