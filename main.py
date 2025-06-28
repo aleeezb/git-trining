@@ -20,4 +20,3 @@ def notify_customer(name, order_amount):
     
     print(message)
 
-
