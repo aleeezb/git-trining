@@ -18,4 +18,4 @@ def notify_customer(name, order_amount):
 شما {discount * 100:.0f}% تخفیف گرفتید یعنی {discount_amount:,} تومان!
 مبلغ قابل پرداخت: {final_amount:,} تومان 😊"""
     
-    print(message)
+    
